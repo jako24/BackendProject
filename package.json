@@ -20,6 +20,7 @@
     "@trpc/client": "^10.34.0",
     "@trpc/next": "^10.34.0",
     "@trpc/react": "^9.27.4",
+    "@trpc/react-query": "^10.34.0",
     "@trpc/server": "^10.34.0",
     "intuit-oauth": "^4.0.0",
     "micro": "^10.0.1",
